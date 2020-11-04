@@ -1,0 +1,11 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "Fav":{
+      "Name": "Vec<u8>",
+      "Fav_Number": "u32"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
